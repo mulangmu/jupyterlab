@@ -33,6 +33,7 @@
     "@jupyterlab/application": "^0.19.1",
     "@jupyterlab/apputils": "^0.19.1",
     "@jupyterlab/csvviewer": "^0.19.1",
+    "@jupyterlab/databus": "^0.7.1",
     "@jupyterlab/docregistry": "^0.19.1",
     "@jupyterlab/mainmenu": "^0.8.1",
     "@phosphor/datagrid": "^0.1.6"
